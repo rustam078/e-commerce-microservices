@@ -5,4 +5,4 @@
 if it will not show like maven project then right click on folder and select import as  project
 # second start descovery 
 # then all service like customer product order payment notification 
-# last run discovery service
+# last run gateway service
