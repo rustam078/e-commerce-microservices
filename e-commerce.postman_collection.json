@@ -101,7 +101,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n  \"id\": \"1\",\r\n  \"firstname\": \"John\",\r\n  \"lastname\": \"Doe\",\r\n  \"email\": \"john.doe@example.com\",\r\n  \"address\": {\r\n    \"id\":\"1\",\r\n    \"street\": \"123 Main St\",\r\n    \"houseNumber\": \"A1\",\r\n    \"zipCode\": \"12345\"\r\n  }\r\n}\r\n",
+					"raw": "{\r\n  \"id\": \"1\",\r\n  \"firstname\": \"John\",\r\n  \"lastname\": \"Doe\",\r\n  \"email\": \"john.doe@example.com\",\r\n  \"address\": {\r\n    \"street\": \"123 Main St\",\r\n    \"houseNumber\": \"A1\",\r\n    \"zipCode\": \"12345\"\r\n  }\r\n}\r\n",
 					"options": {
 						"raw": {
 							"language": "json"
